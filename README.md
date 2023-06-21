@@ -15,7 +15,7 @@ WYJAŚNIENIE czemu:
 W moim wypadku funkcja w warunku początkowym jest nieciągła, co powoduje, że nie ma pochodnej, dlatego błędy na początku są tak duże, bo przybliżamy pochodną, która jest nieokreślona. 
 Ogólnym problemem tutaj jest błąd obcięcia dla naszego równania. Zależy on od kolejnych pochocnych naszej funkcji (jak przy przybliżeniach różnicowych), które mogą zachowywać się różnie, np:
 
-Może być tak, że funkcja na początku jest "wybrzuszona", a potem maleje
+Może być tak, że funkcja na początku jest "wybrzuszona", a potem to wybrzuszenie maleje:
 
 ![obraz](https://github.com/Kuboss949/MO11/assets/101654879/b7249935-330b-48d3-8e8b-aa36d048beaa)
 
